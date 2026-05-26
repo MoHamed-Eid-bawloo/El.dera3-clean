@@ -11,7 +11,7 @@ export function Footer() {
         <div className="grid md:grid-cols-4 gap-10 mb-14">
           <div className="md:col-span-2">
             <div className="flex items-center gap-3 mb-5">
-              <img src={logo} alt="شعار الدرع كلين" className="h-14 w-14" />
+              <img src={logo} alt="شعار الدرع كلين" className="h-20 w-20" />
               <div>
                 <div className="font-extrabold text-xl text-gradient-gold">الدرع كلين</div>
                 <div className="text-xs text-muted-foreground tracking-widest">DERA3 CLEAN</div>

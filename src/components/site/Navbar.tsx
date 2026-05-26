@@ -84,8 +84,8 @@ export function Navbar() {
       role="banner"
     >
       <div className="container mx-auto px-6 flex items-center justify-between gap-6">
-        <Link to="/" className="flex items-center gap-3 shrink-0" aria-label="الدرع كلين - الرئيسية">
-          <img src={logo} alt="شعار الدرع كلين" className="h-14 w-14 object-contain" />
+        <Link to="/" className="flex items-center shrink-0" aria-label="الدرع كلين - الرئيسية">
+          <img src={logo} alt="شعار الدرع كلين" className="h-20 w-30 object-contain" />
           <div className="hidden sm:block leading-tight">
             <div className="font-extrabold text-lg text-gradient-gold">الدرع كلين</div>
             <div className="text-[11px] text-muted-foreground tracking-widest">DERA3 CLEAN</div>
